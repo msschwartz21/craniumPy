@@ -8,6 +8,6 @@ scikit-image
 tqdm
 ipympl
 nodejs
-glob
+glob3 (for python 3.7)
 jupyter labextension install @jupyter-widgets/jupyterlab-manager
 jupyter labextension install jupyter-matplotlib
